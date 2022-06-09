@@ -10,5 +10,5 @@ These are the game rules:
 
 In this version, one player will be controlled by the computer and the other player controlled by you - the user (i.e CPU vs Player)
 
-Here are some link for you to read more about the game;
+Here are some link for you to read more about the game;<b>
 How to play Rock, Paper and Scissors: https://www.youtube.com/watch?v=ND4fd6yScBM
